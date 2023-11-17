@@ -1,0 +1,11 @@
+// ifelse example 1
+public class IFElselottery{
+    public static void main(String[]args){
+        int number=4;
+        if(number%2==2){
+            System.out.print("win");
+        }else{
+            System.out.print("lose");
+                }
+        }
+    }

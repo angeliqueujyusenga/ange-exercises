@@ -1,0 +1,7 @@
+public class DoWhileLoop2 {
+public static void main(String[] args) {
+    do{
+        System.out.println("infinitive do Good afternoon");
+    }while(true);
+}
+}

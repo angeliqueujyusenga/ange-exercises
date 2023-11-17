@@ -1,0 +1,8 @@
+// infinitivewhile loop example 2
+public class Whileloop2{
+    public static void main(String[]args){
+        while(true){
+            System.out.print("Good morning");
+        }
+    }
+}
